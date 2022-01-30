@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mako!
+- 👀 I’m interested in mixed reality, transportation, and the decentralized web.
+- 🌱 I’m currently learning three.js, AdobeXD, and the Unreal Gaming Engine.
+- 💞️ I’m looking to collaborate on opensource projects!
+- 📫 This is my website: https://makotomoseskumasaka.com/
